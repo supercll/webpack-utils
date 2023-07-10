@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "@babel/core": "^7.22.5"
+    "@babel/core": "^7.22.5",
+    "@babel/generator": "^7.22.5",
+    "@babel/parser": "^7.22.5",
+    "@vue/compiler-sfc": "^2.7.14",
+    "vue-template-compiler": "^2.7.14"
   }
 }
